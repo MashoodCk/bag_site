@@ -6,7 +6,8 @@ function Footer() {
     <div className='footer'>
       
       <div className="socialMedia">
-        <InstagramIcon />
+        <a href="https://www.instagram.com/"><InstagramIcon /></a>
+        
       </div>
 
       <p>Copyright © On Your Arm</p>

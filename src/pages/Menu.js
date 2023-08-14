@@ -21,7 +21,6 @@ function Menu() {
             </div>
           )
         })}
-        {/* https://wa.link/4h77pa */}
 
       </div>
     </div>
